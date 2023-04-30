@@ -1,0 +1,16 @@
+.background {
+    background: linear-gradient(#0C232E, black);
+}
+
+.noise {
+    background: url(assets/noise.png) repeat;
+}
+
+html {
+    height: 100%;
+}
+
+body, .noise {
+    height: 100%;
+    margin: 0;
+}
